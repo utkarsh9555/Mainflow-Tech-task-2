@@ -1,7 +1,5 @@
 # Simple Webpage Project
 
-![Simple Webpage](screenshot.png)
-
 This project is a simple, accessible, and SEO-friendly webpage example, showcasing best practices in web development.
 
 ## Features
