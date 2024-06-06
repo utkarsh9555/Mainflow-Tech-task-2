@@ -40,10 +40,6 @@ Contributions are what make the open-source community such an amazing place to l
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Contact
-- Your Name - [Your Website](https://yourwebsite.com)
-- Project Link: [https://github.com/your_username_/simple-webpage](https://github.com/your_username_/simple-webpage)
-
 ## Acknowledgements
 - [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 - [Img Shields](https://shields.io)
